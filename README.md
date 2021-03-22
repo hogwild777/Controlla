@@ -1,2 +1,13 @@
+<div align="center">
+  
 # Controlla
-A mod which lets you save your controls via presets!
+
+</div>
+
+## About
+
+### Controlla - For 1.16.x (Inspired by Controls Saved)
+Contributors:
+- [Dumbohead](https://twitter.com/dumboheadclient)
+- [hogwild777](https://twitter.com/hogismad)
+
